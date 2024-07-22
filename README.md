@@ -21,6 +21,11 @@ https://github.com/HarisNvr/arena_game.git
 ```
 $ cd arena_game
 ```
+- Создайте и активируйте виртуальное окружение:
+```
+$ python -m venv venv
+$ source venv/bin/activate
+```
 - Установите зависимости:
 ```
 $ pip install -r requirements.txt
