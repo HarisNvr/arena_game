@@ -19,20 +19,20 @@ https://github.com/HarisNvr/arena_game.git
 ```
 - Перейдите в директорию проекта:
 ```
-$ cd arena_game
+cd arena_game
 ```
 - Создайте и активируйте виртуальное окружение:
 ```
-$ python -m venv venv
-$ source venv/bin/activate
+python -m venv venv
+source venv/bin/activate
 ```
 - Установите зависимости:
 ```
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 - Запустите баттлер:
 ```
-$ python arena_game.py
+python arena_game.py
 ```
 
 ## Логика игры
